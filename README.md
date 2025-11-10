@@ -1,5 +1,1 @@
-un programa muy basico en el que se utiliza la api de OMDB
-1- registrarse en OMDB
-2- obtener la api
-3- escribir la api en la variable "api" del programa
-4- disfrutar del programa
+Este programa en Python permite al usuario buscar información de películas usando la API de OMDb. El usuario ingresa el título de una película, y el programa realiza una solicitud HTTP a la API para obtener datos como el año de estreno, director, género y calificación IMDb.
